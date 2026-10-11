@@ -73,8 +73,8 @@ Repository Link:
 
 | Group Member | Contribution |
 | --- | ---: |
-| Muhammad Mustafa Asim | README.md and Repository Creation |
-| Uzair Hassan Farooq | Code |
+| Muhammad Mustafa Asim | README.md, Repository Creation and Documentation |
+| Uzair Hassan Farooq | Code and Flowchart |
 | Muhammad Daud | Flowchart |
 
 ## How to Compile and Run
