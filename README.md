@@ -81,4 +81,4 @@ Repository Link:
 Use a C++ Compiler to compile the program and then run the executable file.
 
 ## Use of AI
-AI assisstance was used to explain the main idea and logic of the assignment, and in the formatting of comments in the code file.
+AI assisstance was used to explain the main idea and logic of the assignment, and in the formatting of comments in the code file. Assisstance was also taken in documentation and debugging of code.
