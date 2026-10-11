@@ -59,12 +59,12 @@ The built-in test data was traced using Mode 1, with 5 starting trucks and 120 s
 | R5- Bridge Colony | 60 | Standard Relief (2 trucks, 50 supply packs) | 0 | 0 |
 
 ### Final Summary for this test:
-Total Requets Processed: 5
-Successfully Handled: 4
-Deferred(due to low score): 1
-Deferred(due to lack of resources): 0
-Remaining Trucks: 0
-Remaining Supply Packs: 0
+- **Total Requets Processed:** 5
+- **Successfully Handled:** 4
+- **Deferred(due to low score):** 1
+- **Deferred(due to lack of resources):** 0
+- **Remaining Trucks:** 0
+- **Remaining Supply Packs:** 0
 
 ## GitHub Repository
 Repository Link: 
