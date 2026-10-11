@@ -270,11 +270,6 @@ int main()
         needscore = 0;
     }
     
-    
-    
-        
-        
-    
     cout << "\n================================\n";
     cout << "    Final Summary Report    ";
     cout << "\n================================\n";
@@ -285,10 +280,5 @@ int main()
     cout << "Final Remaining Trucks: " << trucks << endl;
     cout << "Final Remaining Supply packs: " << aid << endl;
     cout << "\n================================\n";
-    
-        
-    
-    
 
 }
-
